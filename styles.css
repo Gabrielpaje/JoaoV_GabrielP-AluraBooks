@@ -1,0 +1,9 @@
+:root {
+  background-color: brown;
+
+}
+
+body {
+    background-color: var(color);
+ }
+ h1 {background-color: brown;}
